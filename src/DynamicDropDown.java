@@ -18,6 +18,14 @@ public class DynamicDropDown {
 		// //div[@class='css-1dbjc4n r-b5h31w r-95jzfe'] //div[contains(text(),'AGR')]  Parent child
 		
 		
+		//Calendar UI
+		//.css-1dbjc4n.r-1awozwy.r-19m6qjp.r-156aje7.r-y47klf.r-1phboty.r-1d6rzhh.r-1pi2tsx.r-1777fci.r-13qz1uu
+		
+		//.css-1dbjc4n.r-1awozwy.r-19m6qjp.r-156aje7.r-y47klf.r-1phboty.r-1d6rzhh.r-1pi2tsx.r-1777fci.r-13qz1uu
+		
+		driver.findElement(By.cssSelector(".css-1dbjc4n.r-1awozwy.r-19m6qjp.r-156aje7.r-y47klf.r-1phboty.r-1d6rzhh.r-1pi2tsx.r-1777fci.r-13qz1uu")).click();
+		
+		
 	}
 	
 }
